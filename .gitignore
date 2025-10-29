@@ -31,7 +31,7 @@ Release/
 # ===== C++ Compiled Files =====
 *.o
 *.obj
-*.exe
+#*.exe
 *.out
 *.app
 *.a
